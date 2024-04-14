@@ -42,7 +42,7 @@
     "swagger-schema-official": "2.0.0-bab6bed",
     "v-hotkey": "0.2.0",
     "vue": "2.5.16",
-    "vue-router": "3.0.1",
+    "vue-router": "3.6.5",
     "vue-virtual-scroller": "0.11.7",
     "vuetify": "1.0.16",
     "vuex": "3.0.1",
